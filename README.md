@@ -70,5 +70,5 @@ A curated collection of practical tips across embedded, Linux, networking, autom
 Feel free to reach out for collaboration, technical discussion, or project inquiries.  
 技術相談・共同開発・案件のご相談など、お気軽にどうぞ。
 
-📧 Email: t.oshimizu@plain-dev.jp
+📧 Email: later..
 
