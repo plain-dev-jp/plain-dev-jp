@@ -1,0 +1,60 @@
+<h1>👋 こんにちは、孝博です — 組み込み・ネットワーク・自動化エンジニア</h1>
+
+<p>
+組み込みLinux、OSレス環境、通信処理、自動化ツールなど、実務で使える技術を幅広く扱っています。  
+<strong>信頼性・性能・トラブルシューティング力</strong> を強みに、設計から実装・検証まで一貫して対応しています。
+</p>
+
+<hr>
+
+<h2>🔧 得意領域</h2>
+<ul>
+  <li><strong>組み込み Linux</strong>（systemd、起動シーケンス、デバイス立ち上げ）</li>
+  <li><strong>C/C++</strong>（組み込み・通信処理・ドライバ）</li>
+  <li><strong>ネットワークプロトコル</strong>（IPv6、SIP、RTP、TLS、独自プロトコル）</li>
+  <li><strong>Python 自動化</strong>（Playwright E2E、ツール作成）</li>
+  <li><strong>Excel VBA</strong>（業務効率化ツール）</li>
+  <li><strong>Docker を用いた開発・検証環境構築</strong></li>
+  <li><strong>OS・ネットワーク・アプリの横断的なトラブルシューティング／性能解析</strong></li>
+</ul>
+
+<hr>
+
+<h2>📚 主な公開リポジトリ</h2>
+
+<h3>🔹 embedded-linux-notes</h3>
+<p>systemd、起動処理、サービス設計など、組み込みLinuxの実務ノウハウ集。</p>
+
+<h3>🔹 c-utilities-collection</h3>
+<p>組み込み・通信向けの再利用可能な C/C++ ユーティリティ集。</p>
+
+<h3>🔹 network-protocol-lab</h3>
+<p>IPv6 / SIP / RTP / TLS などのプロトコル検証・実装。</p>
+
+<h3>🔹 python-playwright-e2e-sample</h3>
+<p>Playwright を使ったブラウザ自動化・E2Eテストのサンプル。</p>
+
+<h3>🔹 excel-vba-automation-tools</h3>
+<p>業務効率化のための VBA ツール集。</p>
+
+<h3>🔹 docker-dev-env-samples</h3>
+<p>Docker を使った開発・検証環境のテンプレート。</p>
+
+<h3>🔹 tips-assort</h3>
+<p>組み込み・Linux・通信・自動化など、雑多な技術Tipsの詰め合わせ。</p>
+
+<hr>
+
+<h2>🚀 現在取り組んでいること</h2>
+<ul>
+  <li>高信頼な組み込みシステムの開発</li>
+  <li>自動化されたテストパイプラインの構築</li>
+  <li>通信プロトコル解析ツールの開発</li>
+  <li>開発効率化ツールの作成</li>
+  <li>実務向け技術ナレッジの整理・体系化</li>
+</ul>
+
+<hr>
+
+<h2>📫 連絡先</h2>
+<p>技術相談・共同開発・案件のご相談など、お気軽にどうぞ。</p>
